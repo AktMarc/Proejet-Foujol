@@ -1,1 +1,1 @@
-# Proejet-Foujol
+# Projet-Foujol
